@@ -1,5 +1,4 @@
-markdown
-Copy code
+
 # Nmap Python Programs
 
 This repository contains a collection of Python programs for network scanning and port enumeration using the Nmap library. Each program focuses on different aspects of network reconnaissance and can be used for various purposes, including port scanning, service version detection, OS fingerprinting, script scanning, and more.
@@ -17,8 +16,7 @@ This repository contains a collection of Python programs for network scanning an
    git clone https://github.com/your-username/nmap-python-programs.git
 Install the required dependencies using pip:
 
-bash
-Copy code
+
 pip install -r requirements.txt
 Programs
 Below is an overview of the programs available in this repository:
@@ -58,8 +56,7 @@ Choose the desired program based on the specific scanning requirements.
 
 Run the program using the following command:
 
-bash
-Copy code
+
 python program_name.py
 Follow the instructions prompted by the program to enter the target information, such as IP addresses, hostnames, or ports.
 
@@ -69,4 +66,8 @@ License
 MIT License
 
 Disclaimer
-These programs are meant for educational and authorized testing purposes only. The author and the organization are not responsible
+These programs are meant for educational and authorized testing purposes only. The author and the organization are not responsible or any unauthorized or illegal use of these programs. Use them at your own risk and ensure you have proper authorization before scanning any network or system.
+
+
+
+Feel free to customize the content as needed. Don't forget to include the appropriate license file (e.g., LICENSE) in your repository.
